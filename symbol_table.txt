@@ -1,0 +1,12 @@
+Symbol	Type	Scope	Array	Function
+x	int	0	False	False 
+func	int	0	False	True 
+test	int	1	False	False 
+main	int	0	False	True 
+a	int	1	False	False 
+b	int	1	False	False 
+c	double	1	False	False 
+d	double	1	False	False 
+e	int	1	Ture	False 
+f	int	1	Ture	False 
+g	int	1	False	False 
